@@ -1,0 +1,28 @@
+PODS:
+  - IGColorPicker (0.4.2):
+    - M13Checkbox (~> 3.2.0)
+  - IGRPhotoTweaks (1.0.8)
+  - M13Checkbox (3.2.2)
+  - MediaWatermark (0.3.1)
+
+DEPENDENCIES:
+  - IGColorPicker
+  - IGRPhotoTweaks
+  - MediaWatermark
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IGColorPicker
+    - IGRPhotoTweaks
+    - M13Checkbox
+    - MediaWatermark
+
+SPEC CHECKSUMS:
+  IGColorPicker: c6d43aa386a9fdc8f958f3bd4e5ab85905242c8a
+  IGRPhotoTweaks: e348cec1dfc7afc36ff0f10115637bc3b03836fa
+  M13Checkbox: a8c2491cfbbca10797925fd0b9154a782bf40d89
+  MediaWatermark: a66d86cd40bc01840c6f810ad036828c08408b8b
+
+PODFILE CHECKSUM: 6a59364afda8caf111e47f2e181b0032735a4f8c
+
+COCOAPODS: 1.6.1
